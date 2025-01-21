@@ -1,7 +1,7 @@
 {
   "id": "i18nDashboards",
   "version": "3.0.0.0",
-  "opensearchDashboardsVersion": "3.0.0",
+  "opensearchDashboardsVersion": "2.15.0",
   "server": true,
   "ui": false,
   "requiredPlugins": [],
