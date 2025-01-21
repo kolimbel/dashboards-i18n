@@ -1,0 +1,83 @@
+{
+  "formats": {
+    "number": {
+      "currency": {
+        "style": "walutowy"
+      },
+      "percent": {
+        "style": "procentowy"
+      }
+    },
+    "date": {
+      "short": {
+        "month": "cyfrowy",
+        "day": "cyfrowy",
+        "year": "2-cyfrowy"
+      },
+      "medium": {
+        "month": "skrócony",
+        "day": "cyfrowy",
+        "year": "cyfrowy"
+      },
+      "long": {
+        "month": "pełny",
+        "day": "cyfrowy",
+        "year": "cyfrowy"
+      },
+      "full": {
+        "weekday": "pełny",
+        "month": "pełny",
+        "day": "cyfrowy",
+        "year": "cyfrowy"
+      }
+    },
+    "time": {
+      "short": {
+        "hour": "cyfrowa",
+        "minute": "cyfrowa"
+      },
+      "medium": {
+        "hour": "cyfrowa",
+        "minute": "cyfrowa",
+        "second": "cyfrowa"
+      },
+      "long": {
+        "hour": "cyfrowa",
+        "minute": "cyfrowa",
+        "second": "cyfrowa",
+        "timeZoneName": "skrócona"
+      },
+      "full": {
+        "hour": "cyfrowa",
+        "minute": "cyfrowa",
+        "second": "cyfrowa",
+        "timeZoneName": "skrócona"
+      }
+    },
+    "relative": {
+      "years": {
+        "units": "rok"
+      },
+      "months": {
+        "units": "miesiąc"
+      },
+      "days": {
+        "units": "dzień"
+      },
+      "hours": {
+        "units": "godzina"
+      },
+      "minutes": {
+        "units": "minuta"
+      },
+      "seconds": {
+        "units": "sekunda"
+      }
+    }
+  },
+  "messages": {
+    "core.euiSuperUpdateButton.refreshButtonLabel": "Odśwież",
+    "core.euiSuperUpdateButton.updateButtonLabel": "Przeładuj",
+    "core.ui.welcomeMessage": "Ładowanie OpenSearch Dashboards"
+  }
+}
