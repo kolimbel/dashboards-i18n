@@ -78,6 +78,11 @@
   "messages": {
     "core.euiSuperUpdateButton.refreshButtonLabel": "Odśwież",
     "core.euiSuperUpdateButton.updateButtonLabel": "Przeładuj",
-    "core.ui.welcomeMessage": "Ładowanie OpenSearch Dashboards"
+    "core.ui.welcomeMessage": "Ładowanie OpenSearch Dashboards",
+    "visTypeTable.tableVisExport.rawCsv": "Surowy CSV",
+    "visTypeTable.tableVisExport.formattedCsv": "Sformatowany CSV",
+    "visTypeTable.tableVisExport.pdf": "PDF",
+    "dashboard.actions.toggleExpandPanelMenuItem.expandedDisplayName": "Minimalizuj",
+    "dashboard.actions.toggleExpandPanelMenuItem.notExpandedDisplayName": "Maksymalizuj widok"
   }
 }
