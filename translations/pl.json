@@ -84,6 +84,8 @@
     "visTypeTable.tableVisExport.pdf": "PDF",
     "dashboard.actions.toggleExpandPanelMenuItem.expandedDisplayName": "Minimalizuj",
     "dashboard.actions.toggleExpandPanelMenuItem.notExpandedDisplayName": "Maksymalizuj widok",
+    "export.csv.formatted": "sformatowany",
+    "export.csv.raw": "surowy",
     "export.pagination.page": "Strona",
     "export.pagination.from": "z"
   }
